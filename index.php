@@ -26,8 +26,7 @@
             <span class="mdl-layout-title">Categories</span>
             <nav class="mdl-navigation">
                <?php 
-                  getCats()?>
-               <a class="mdl-navigation__link" href="">Toys</a>  
+                  getCats()?> 
             </nav>
          </div>
          <!--Left Alligned Drawer Ends Here -->
@@ -61,7 +60,7 @@
                   <main class="mdl-layout__content">
                      <div class="page-content">
                         <!-- Conent Goes Here -->
-                        CONTENT
+                Herald Christon
                         <footer class="mdl-mega-footer">
                            <div class="mdl-mega-footer__middle-section">
                               <div class="mdl-mega-footer__drop-down-section">
